@@ -6781,6 +6781,7 @@ export interface TextGeometryParameters {
     bevelEnabled?: boolean;
     bevelThickness?: number;
     bevelSize?: number;
+    bevelSegments?: number;
 }
 
 export class TextGeometry extends ExtrudeGeometry {
@@ -6794,6 +6795,7 @@ export class TextGeometry extends ExtrudeGeometry {
         bevelEnabled: boolean;
         bevelThickness: number;
         bevelSize: number;
+        bevelSegments: number;
     };
 }
 

@@ -2,5 +2,15 @@
   "name" : "@types/three", 
   "version" : "1.01",
   "description" : "An more up-to-date version of npm @types/three, i.e. Typescript types definitions for ThreeeJS",
-  "author": "FranckVE"
+  "author": "FranckVE",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FranckVE/types-three.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/webvr-api": "*"
+  },
+  "typeScriptVersion": "2.0"
 }

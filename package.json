@@ -1,7 +1,7 @@
-{ 
-  "name" : "@types/three", 
-  "version" : "1.01",
-  "description" : "An more up-to-date version of npm @types/three, i.e. Typescript types definitions for ThreeeJS",
+{
+  "name": "@types/three",
+  "version": "1.01",
+  "description": "An more up-to-date version of npm @types/three, i.e. Typescript types definitions for ThreeeJS",
   "author": "FranckVE",
   "main": "",
   "repository": {

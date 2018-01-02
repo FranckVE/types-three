@@ -1,6 +1,6 @@
 {
   "name": "@types/three",
-  "version": "1.03",
+  "version": "1.02",
   "description": "An more up-to-date version of npm @types/three, i.e. Typescript types definitions for ThreeeJS",
   "author": "FranckVE",
   "main": "",

@@ -6907,6 +6907,10 @@ export class AxisHelper extends LineSegments {
     constructor(size?: number);
 }
 
+export class AxesHelper extends LineSegments {
+    constructor(size?: number);
+}
+
 export class BoundingBoxHelper extends Mesh {
     constructor(object?: Object3D, hex?: number);
 

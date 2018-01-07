@@ -6966,6 +6966,10 @@ export class GridHelper extends LineSegments {
     setColors(color1?: Color|number, color2?: Color|number): void;
 }
 
+export class PolarGridHelper extends LineSegments {
+    constructor(radius: number, radials: number, circles: number, divisions: number, color1?: Color|number, color2?: Color|number);
+}
+
 export class HemisphereLightHelper extends Object3D {
     constructor(light: Light, sphereSize: number);
 
